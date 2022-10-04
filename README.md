@@ -1,2 +1,6 @@
-# Web_Scraping_Project
-Extract Data from a leading e-commerce platform in Tunisia
+# Web_Scraping
+In this lab you will perform the following:
+
+-Extract information from a given web site
+-Write the scraped data into a csv file.
+
